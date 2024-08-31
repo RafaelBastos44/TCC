@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/nltkdata/reuters (downloaded on reuters_to_csv.ipynb and converted to reuters.csv)
+https://www.kaggle.com/datasets/fabiochiusano/medium-articles (medium_articles_texts.csv filtered from medium_articles.csv)

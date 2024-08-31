@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/lokeshparab/amazon-products-dataset
+https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification
