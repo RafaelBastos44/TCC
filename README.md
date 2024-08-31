@@ -1,0 +1,5 @@
+# Classificação de texto: LLMs ou métodos de aprendizado supervisionado?
+## Resumo do projeto
+Realizar um estudo comparativo entre LLMs e modelos de aprendizado supervisionado para classificação de texto (binária, multiclasse e multilabel), analisando métricas como performance, tempo e custo. Serão testados modelos de classificação tradicionais como aqueles disponíveis na biblioteca scikit-learn, redes neurais, e LLMs locais e remotos. Os dados de entrada consistiriam de datasets de classificação de produtos, análise de sentimento, detecção de spam, etc. Seriam coletados datasets de acesso aberto para o público de plataformas como Kaggle e Huggingface.
+
+O objetivo principal do projeto é elaborar uma pipeline bem estruturada para problemas de classificação de texto, identificando as abordagens mais adequadas para contextos específicos.
