@@ -1,6 +1,5 @@
 venv/
 cronograma/
-text_classification/data/binary/*.csv
-text_classification/data/multiclass/*.csv
-text_classification/data/multilabel/*.csv
+text_classification/data/**/*.csv
+text_classification/data/**/*.parquet
 *.xlsx
