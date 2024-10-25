@@ -1,2 +1,12 @@
 https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification
+
+# Train, test, validation
+https://huggingface.co/datasets/thien/political/viewer/classifier 80k, 56k, 4k
+https://huggingface.co/datasets/stanfordnlp/sst2 63.7k, 1.82k, 872
+https://huggingface.co/datasets/cardiffnlp/tweet_eval/viewer/offensive 11.9k, 860, 1.32k
+https://huggingface.co/datasets/cardiffnlp/tweet_eval/viewer/hate 9k, 2.97k, 1k
+https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes 8.53k, 1.07k, 1.07k
+https://huggingface.co/datasets/cardiffnlp/tweet_eval/viewer/irony 2.86k, 784, 955
+https://huggingface.co/datasets/mteb/sib200/viewer/eng_Latn 701, 204, 99
+

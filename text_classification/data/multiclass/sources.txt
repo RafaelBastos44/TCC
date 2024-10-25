@@ -1,2 +1,15 @@
 https://www.kaggle.com/datasets/lokeshparab/amazon-products-dataset
 https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification
+
+
+# Train, test, validation
+https://huggingface.co/datasets/cardiffnlp/tweet_eval/viewer/emoji - 45k, 50k, 5k
+https://huggingface.co/datasets/cardiffnlp/tweet_eval/viewer/sentiment - 45.6k, 12.3k, 2k
+https://huggingface.co/datasets/dair-ai/emotion - 16k, 2k, 2k
+https://huggingface.co/datasets/cardiffnlp/tweet_eval/viewer/emotion - 3.26k, 1.42k, 374
+https://huggingface.co/datasets/tyqiangz/multilingual-sentiments/viewer/english
+
+
+# Huge
+https://huggingface.co/datasets/fancyzhx/dbpedia_14
+https://huggingface.co/datasets/Yelp/yelp_review_full

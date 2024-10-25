@@ -1,3 +1,12 @@
 https://www.kaggle.com/datasets/prox37/twitter-multilabel-classification-dataset
 https://www.kaggle.com/datasets/shopgram/shopify-stores-by-shopgramio
 https://github.com/Jcharis/Python-Machine-Learning/tree/master/Multi_Label_Text_Classification_with_Skmultilearn/data
+
+
+https://huggingface.co/datasets/google-research-datasets/go_emotions
+https://huggingface.co/datasets/MLRS/maltese_news_categories
+https://huggingface.co/datasets/Arsive/toxicity_classification_jigsaw
+
+# Maybe
+https://huggingface.co/datasets/google/civil_comments
+https://huggingface.co/datasets/tumeteor/Security-TTP-Mapping
