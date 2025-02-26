@@ -1,0 +1,10 @@
+Accuracy: 0.0
+F1 score: 0.0
+Precision: 0.0
+Recall: 0.0
+Hamming loss: 0.30456692913385824
+Average response time: 0.650947471303264
+Average completion tokens: 7.939370078740158
+Average prompt tokens: 120.22204724409448
+Average total tokens: 128.16141732283464
+Total cost: USD 0.028952100000000015
