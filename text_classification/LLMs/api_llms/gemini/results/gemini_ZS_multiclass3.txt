@@ -1,0 +1,9 @@
+Accuracy: 0.595
+F1 score: 0.5850542166030155
+Precision: 0.6165622846750457
+Recall: 0.595
+Average response time: 1.0612834695577622
+Average completion tokens: 2.4555
+Average prompt tokens: 102.5175
+Average total tokens: 104.973
+Total cost: USD 0.022467900000000027
