@@ -1,0 +1,24 @@
+Average Train Accuracy: 0.8634987188446308
+Average Train Precisions: [0.84992887 0.87800924]
+Average Train Recalls: [0.88002823 0.8472895 ]
+Average Train F1s: [0.86465156 0.86230553]
+Average Max Memory Usage Train: 1272.9427083333333
+Average Max VRAM Usage Train: 1606.1407877604167
+Average Total Train Time: 56.80215040000136
+
+Average Val Accuracy: 0.650261780104712
+Average Val Precisions: [0.7072649 0.6119609]
+Average Val Recalls: [0.56913828 0.73903509]
+Average Val F1s: [0.62803108 0.66812448]
+Average Total Val Time: 1.784006966666008
+
+Average Test Accuracy: 0.6143707482993198
+Average Test Precisions: [0.66629296 0.51596267]
+Average Test Recalls: [0.7230444  0.44908896]
+Average Test F1s: [0.69346522 0.48009673]
+Average Max Memory Usage Test: 1194.2200520833333
+Average Max VRAM Usage Test: 1066.49951171875
+Average Total Test Time: 4.730801966667059
+
+Average Classification Time: 0.006034186181973289
+Lines classified 784
