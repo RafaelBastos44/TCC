@@ -3,8 +3,7 @@ F1 score: 0.13198387051435187
 Precision: 0.21800342472347392
 Recall: 0.2699868938401048
 Hamming loss: 0.5180124223602485
-Average response time: 2.466565118813367
-Average VRAM usage: 4194.816770186336
-Average RAM usage: 87.20638829580746
-Average total time: 0.4240854119047619
-Lines classified: 966
+Average response time: 2.3948370472491405
+Average VRAM usage: 4644.770186335404
+Average RAM usage: 88.10453060300208
+Average total time: 0.3493074255693582

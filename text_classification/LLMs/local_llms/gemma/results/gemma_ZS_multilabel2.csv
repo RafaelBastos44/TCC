@@ -1,0 +1,201 @@
+text,bug,docs,feature,question,won't fix,response_time,vram_usage,ram_usage,total_time,bug pred,feature pred,question pred,won't fix pred,docs pred
+Update CONTRIBUTING.md on bugfixes/features PRs,0,1,0,0,0,4.597250461578369,5547,119.76953125,2.5408857,0,1,0,0,1
+How to print the metric (across all working trainer in DDP mode) into console after each epoch is end?,0,0,0,1,1,2.1383323669433594,5544,123.3984375,0.0949488,0,0,1,0,0
+Model loaded from checkpoint has bad accuracy ,0,0,0,1,0,2.338641405105591,5540,126.3984375,0.2888112,1,0,0,0,0
+Add a robots.txt to stop Google from indexing Deprecated Versions of the Docs,0,1,0,0,0,2.2945356369018555,5533,126.890625,0.2535834,1,0,0,0,1
+Multi-processing with IterableDataset Warning ,0,1,0,0,0,2.2130489349365234,5534,126.9609375,0.1601671,1,0,0,0,0
+What is the correct way to set accumulate_grad_batches more than 1 and also a customized optimizer_step?,0,0,0,0,1,2.13521671295166,5537,127.01171875,0.0975136,0,0,1,0,0
+Logging validation metrics with `val_check_interval`,0,0,0,1,0,2.2076399326324463,5553,127.09375,0.1671306,1,0,0,0,0
+How do I pass metric to tensorboards hparam interface,0,0,0,1,0,2.366128921508789,5560,127.1640625,0.3197198,0,0,1,0,1
+How to add a hidden state in test_step when dealing with sequential data?,0,0,0,1,0,2.198391914367676,5564,127.28515625,0.1677986,0,0,1,0,0
+"RuntimeError: Tensor for 'out' is on CPU, Tensor for argument #1 'self' is on CPU, but expected them to be on GPU (while checking arguments for addmm)",0,0,0,1,0,2.317331075668335,5562,126.95703125,0.2679456,1,0,0,0,0
+Most efficient way to log data to file within training/validation_step,0,0,0,1,1,2.2220425605773926,5558,116.09375,0.1799499,0,1,0,0,0
+How to gather predict on ddp,0,0,0,1,0,2.298043727874756,5558,116.16015625,0.2588115,0,0,1,0,0
+How to get world_size and global_rank in custom LightningDataModule? ,0,0,0,1,0,2.2816696166992188,5558,116.21875,0.2275351,0,0,1,0,0
+Best Practice: How to enhance already existing models with lightning?,0,0,0,1,0,2.263601541519165,5558,116.3515625,0.2181749,0,1,0,0,1
+Typo correction in optimizers documentation,0,1,0,0,0,2.2953319549560547,5558,116.39453125,0.2486229,0,0,0,0,1
+Available value list of Accelerator.barrier's `name` argument,0,0,0,1,0,2.29420804977417,5570,116.44140625,0.2555136,0,0,0,0,1
+There doesn't seem to be a way to set requires_grad=True for parameters you don't want to update,0,0,0,1,1,2.228174924850464,5564,116.3046875,0.18954,1,0,0,0,0
+Restore training states without create new version in lightning_logs?,0,0,0,1,0,2.2917768955230713,5554,116.3046875,0.242101,0,0,1,0,0
+Errors in documentation generated from lightning.py,0,1,0,0,0,2.266451358795166,5551,116.31640625,0.2288419,0,0,0,0,1
+OOM using EfficientNet B3,0,0,0,1,0,2.2160208225250244,5550,116.36328125,0.1867504,1,0,0,0,0
+How to we update the learning on every step?,0,0,0,1,0,2.363100051879883,5554,116.4140625,0.3114061,0,0,1,0,0
+How to improve the displayed precision for loss in the progress bar.,0,0,0,1,0,2.3448729515075684,5559,116.4609375,0.296535,0,0,1,0,0
+"[docs] use `versionadded`, `versionchanged` and `deprecated` directive",0,1,0,0,1,2.2044153213500977,5564,116.5078125,0.1644462,0,0,0,0,1
+"Strange behavior of loss logger, different from actual loss, and with delay. Probably I am misreading something.",0,0,0,1,0,2.3669142723083496,5561,115.23046875,0.3444432,1,0,1,0,0
+Question about save_hyperparameters(),0,0,0,1,0,2.1951725482940674,5561,115.23046875,0.1729044,0,0,1,0,0
+How to pass in step argument to `scheduler.step()`,0,0,0,1,0,2.318720817565918,5561,115.234375,0.2681513,0,0,1,0,0
+How to re-initlaize a custom accelerator inside the training loop ?,0,0,0,1,0,2.276675224304199,5561,115.234375,0.2310636,0,0,1,0,0
+Classification metrics docs incorrectly state they work with logits,0,1,0,0,0,2.2890777587890625,5564,115.25390625,0.2426763,0,0,1,0,1
+Logging metrics (learning rate) to progress bar,0,0,0,1,0,2.434312343597412,5570,115.25390625,0.39633,0,1,0,0,1
+Error in example of learning rate finder docs ,0,1,0,0,0,2.276279926300049,5570,115.25390625,0.2395612,1,0,0,0,1
+How to do a full validation loop at iteration 0?,0,0,0,1,1,2.4027113914489746,5578,115.265625,0.3608312,0,0,1,0,0
+How to use Lightning 1.0 without validation dataloader ?,0,0,0,1,0,2.2515640258789062,5578,115.265625,0.2037133,0,0,1,0,0
+ModelCheckpoint.save_function documentation,0,0,0,1,0,2.331852436065674,5554,115.26953125,0.2795631,0,0,0,0,1
+Add model sharding/gradient checkpointing from FairScale,0,0,1,0,0,2.284604787826538,5554,115.26953125,0.2479096,0,1,0,0,0
+How to use multiple loaders?,0,0,0,1,0,2.241971969604492,5554,115.26953125,0.1891954,0,0,1,0,0
+[Docs] replace distributed_backend with accelerator in docs,0,1,0,0,0,2.2980129718780518,5554,115.26953125,0.2540843,0,0,0,0,1
+ReduceLROnPlateau Scheduler documentation problem,0,1,0,0,0,2.3004097938537598,5554,115.26953125,0.2571991,1,0,0,0,1
+How to save the latest and best checkpoint?,0,0,0,1,0,2.2168023586273193,5554,115.26953125,0.1737249,0,0,1,0,0
+Multiple GPU/TPU support?,0,0,0,1,0,2.3032307624816895,5554,115.296875,0.2600537,0,0,1,0,0
+ModuleNotFoundError: No module named 'pytorch_lightning.trainer.seed',0,0,0,1,0,2.4053916931152344,5554,115.296875,0.3646589,1,0,0,0,0
+self.log with Metric in ddp,0,0,0,1,1,2.24259614944458,5554,115.30078125,0.1964786,1,0,0,0,0
+TypeError: __init__() got an unexpected keyword argument 'default_save_path',0,0,0,1,0,2.320781707763672,5554,115.30078125,0.2740793,1,0,0,0,0
+How to add dynamically defined module and its optimizer to the lightning module?,0,0,0,1,1,2.2470016479492188,5554,115.28515625,0.1947792,0,0,1,0,0
+How to save gradient every step?,0,0,0,1,0,2.2914650440216064,5554,115.28515625,0.2561732,0,0,1,0,0
+Typo in sample codes of training_step_end() documentation,0,1,0,0,0,2.304594039916992,5554,115.28515625,0.2509988,1,0,0,0,1
+Trying to find the best way to implement a gradient penalty,0,0,0,1,0,2.3965065479278564,5537,115.28515625,0.3484563,0,0,1,0,0
+Model save,0,0,0,1,0,2.305286407470703,5553,115.28515625,0.2503683,1,0,0,0,0
+"multiple dataset to train model. Sharing backbone, Separable classifier.",0,0,0,1,1,2.3080532550811768,5553,115.28515625,0.2669698,0,1,0,0,1
+How to compute a block of code using full precision when training with AMP?,0,0,0,1,0,2.415050745010376,5544,115.28515625,0.3621998,0,0,1,0,0
+How to print acc while training?,0,0,0,1,0,2.240115165710449,5542,115.28515625,0.1964101,0,0,1,0,0
+'AmpOptimizerState' object has no attribute 'all_fp16_params' when Trainer amp_level,0,0,0,1,1,2.3289592266082764,5545,115.28515625,0.3019808,1,0,0,0,0
+Metric update method is called twice in a row,0,0,0,1,0,2.3894364833831787,5555,115.28515625,0.335561,1,0,0,0,0
+Set different lr_schedulers for different parameter groups,0,0,0,1,0,2.233198404312134,5555,115.29296875,0.1802833,0,1,0,0,0
+[question] How to override how `self.train_transform` is applied to batches in `LightningDataModule`.,0,0,0,1,1,2.2725961208343506,5563,115.29296875,0.2267955,0,0,1,0,0
+How to change optimizer and lr scheduler in the middle of training?,0,0,0,1,0,2.2235467433929443,5560,115.29296875,0.1769741,0,0,1,0,0
+How automaticly load best model checkpoint on Trainer instance with TestTubeLogger,0,0,0,1,0,2.457537889480591,5553,115.29296875,0.4087037,0,0,1,0,1
+Child Modules Code Example,0,1,0,0,0,2.2176907062530518,5553,115.29296875,0.1748984,0,0,0,0,1
+How to wrap progress bar?,0,0,1,1,0,2.266563653945923,5551,115.29296875,0.2298671,0,0,1,0,0
+Print out learning_rate in the progress bar,0,0,0,1,0,2.391730546951294,5557,115.296875,0.3538893,0,0,1,0,0
+How was the README animation created ?,0,0,0,1,1,2.2086434364318848,5552,115.296875,0.1626716,0,0,1,0,0
+Skip the train_step based on batch statistics,0,0,0,1,0,2.3345484733581543,5553,115.30859375,0.2966531,1,0,0,0,0
+Use two separate dataloaders,0,0,0,1,0,2.223677635192871,5548,115.30859375,0.181915,1,0,0,0,0
+Document class inheriting from LightningModule,0,1,0,0,1,2.4348843097686768,5558,115.30859375,0.388358,0,0,0,0,1
+some questions about loading checkpoints,0,0,0,1,1,2.1925575733184814,5558,115.30859375,0.1700745,0,0,1,0,0
+How to specify 'mode' when using checkpoint_on in the new Result types.,0,0,0,1,1,2.3293111324310303,5552,115.30859375,0.2960212,0,0,1,0,1
+Validation step returns trainresult instead of evalresult,0,1,0,0,0,2.4054019451141357,5546,115.30859375,0.3569294,1,0,0,0,0
+ModelCheckpoint every validation cycle instead of epoch?,0,0,0,1,0,2.195791244506836,5555,115.30859375,0.1518785,0,0,1,0,0
+Remove forward hook from lightning documentation,0,1,0,0,0,2.3804779052734375,5541,115.3359375,0.3314625,0,0,0,0,1
+More explanation needed in documentation on DP vs. DDP in multi-GPU training,0,0,0,1,0,2.244974374771118,5529,115.3359375,0.1953698,0,0,0,0,1
+Weights precisions do not match up. AMP,0,0,0,1,1,2.2814242839813232,5564,115.3359375,0.2365734,1,0,0,0,0
+How to access validation logs data inside the on_validation_batch_end callback,0,0,0,1,0,2.2703065872192383,5562,115.3359375,0.2261883,0,0,1,0,1
+training discriminator five time for WGAN and generator only one,0,0,0,1,0,2.2964601516723633,5562,115.3359375,0.2409064,1,0,0,0,0
+row_log_interval / checkpoint_callback and early_stop_callback,0,0,0,1,1,2.2861552238464355,5559,115.3359375,0.2387098,0,1,0,0,0
+EvalResult can't log 2D tensor,0,0,0,1,0,2.259192943572998,5559,115.3359375,0.199235,1,0,0,0,0
+Disabling printing of GPU debug information,0,0,0,1,0,2.3187754154205322,5559,115.3359375,0.2750528,1,0,0,0,0
+Add a note about row_log_interval=50 default to logging doc page or warning,0,1,0,0,0,2.2931511402130127,5559,115.390625,0.2570599,0,0,0,0,1
+How to schedule learning rate in pytorch_lightning,0,0,0,1,0,2.272186756134033,5559,115.390625,0.2271602,0,0,1,0,1
+Test that the number of files in tensorboard was correct in distributed,0,0,1,0,0,2.3039913177490234,5559,115.390625,0.2529932,1,0,0,0,0
+Support for production deployment,0,0,0,1,1,2.3095622062683105,5559,115.390625,0.2541066,0,0,0,0,1
+Does self.log do ddp sync automatically?,0,0,0,1,0,2.2473480701446533,5559,115.390625,0.1955198,0,0,1,0,0
+Error in  `load_from_checkpoint` when LightningModule init contains 'hparams',0,0,0,1,1,2.338465929031372,5559,115.390625,0.2960794,1,0,0,0,0
+2 optimizers : skip updates for the second optim,0,0,0,1,0,2.311743974685669,5559,115.390625,0.2597438,1,0,0,0,0
+Adding histogram through TensorBoardLogger object not working  ,1,0,0,0,0,2.2526092529296875,5559,115.60546875,0.1962765,1,0,0,0,0
+Confusion over Early Stopping behavior and how it is intended to work in the future ,0,0,0,1,0,2.342522144317627,5559,115.6171875,0.299948,0,0,1,0,0
+Setting gpus with hydra,0,0,0,1,0,2.3023791313171387,5559,115.625,0.248331,1,0,0,0,0
+train_percent_check as a method for reducing train data size.,0,0,0,1,0,2.2440097332000732,5559,115.625,0.1994484,0,1,0,0,0
+What is the model saved by the trainer by default?,0,0,0,1,0,2.344269037246704,5559,115.62890625,0.3099745,0,0,1,0,0
+How to interpret the profiler statistics here,0,0,0,1,1,2.3226280212402344,5559,115.6328125,0.2651717,0,0,0,0,1
+Checkpointing with SLURM,0,0,0,1,0,2.2386739253997803,5559,115.6328125,0.1973656,0,0,0,0,1
+Question about `trainer.test()`,0,0,1,1,0,2.3592607975006104,5559,115.63671875,0.3268233,0,0,1,0,0
+Typo in child modules docs,0,1,0,0,0,2.2987892627716064,5559,115.65234375,0.2526098,0,0,0,0,1
+How to suppress messages from Trainer class?,0,0,0,1,0,2.200789213180542,5561,115.65234375,0.1536309,0,0,1,0,0
+"GPU training, but datasets are on the CPU",0,0,0,1,1,2.3813154697418213,5560,115.65234375,0.3273051,1,0,0,0,0
+Learning Non-negative Parameters,0,0,0,1,0,2.314361095428467,5560,115.65234375,0.2711787,0,0,0,0,1
+validation_epoch_end and ddp,0,0,0,1,0,2.264967441558838,5560,115.65234375,0.2045172,1,0,0,0,0
+"how to use custom dataset in pytorch-lightning module as I am encountering an error ""AttributeError: 'str' object has no attribute 'size'""",0,0,0,1,0,2.3572306632995605,5565,115.65234375,0.2996769,1,0,1,0,0
+How do I access the metrics from a logger/trainer?,0,0,0,1,1,2.307871103286743,5564,115.65625,0.2825909,0,0,1,0,0
+init_slurm_connection causing hostname errors,1,0,0,0,0,2.2318592071533203,5564,115.66015625,0.1914109,1,0,0,0,0
+"Does ""log_save_interval"" control training log?",0,0,0,1,1,2.286595344543457,5564,115.66015625,0.250347,0,0,1,0,0
+How to tokenize within getitem() of Dataset with HuggingFace tokenizers,0,0,0,1,0,2.357254981994629,5564,115.66015625,0.3353179,0,0,1,0,1
+Is AUROC from lightning metrics package intentionally different from the sklearn's?,0,0,0,1,0,2.231067180633545,5564,115.66015625,0.1922002,0,0,1,0,0
+multi-node multi-gpu with time constraint and model checkpointing,0,0,0,1,1,2.378331422805786,5564,115.66015625,0.3654609,1,1,0,0,0
+[how-to] Handle multiple losses and/or weighted losses?,0,0,0,1,0,2.292630195617676,5564,115.66015625,0.2665489,0,0,1,0,0
+Epoch number has inconsistent display in ModelCheckpoint,0,1,0,0,0,2.12846302986145,5564,115.66015625,0.0867871,1,0,0,0,0
+Does pytorch-lightning support mixed-precision training?,0,0,0,1,0,2.257173538208008,5564,115.66015625,0.2235218,0,0,1,0,0
+datamodule how to load checkpoint,0,0,1,1,0,2.2296319007873535,5564,115.66015625,0.1985064,0,0,1,0,0
+Best Practices: logger.experiment.add_image() at end of epoch when using new simplified pl.Train/EvalResult objects,0,0,0,1,1,2.3729665279388428,5561,115.6875,0.3256007,1,0,0,0,1
+How to configure steps of multiple optimizers for GANs,0,0,0,1,0,2.2733185291290283,5561,115.6875,0.2392577,0,0,1,0,1
+How to suppress GPU/TPU device information warnings,0,0,0,1,1,2.3247668743133545,5561,115.6875,0.292941,0,0,0,0,1
+TPU Colab,0,1,0,1,1,2.3132779598236084,5561,115.6875,0.2792191,1,0,0,0,0
+Do multiple optimizer steps in one training step,0,0,0,1,0,2.242915153503418,5561,115.6875,0.1974427,1,0,0,0,0
+Understanding the Progress Bar,0,0,0,1,0,2.3513076305389404,5561,115.6875,0.3196615,0,0,1,0,0
+Best Practice to log images in vision tasks,0,0,0,1,0,2.3135807514190674,5561,115.6875,0.2671401,0,0,0,0,1
+Checkpoint files location when WandbLogger ,0,0,0,1,0,2.2595489025115967,5561,115.6875,0.238864,1,0,0,0,1
+How to write custom metric callbacks properly ?,0,0,0,1,0,2.335859537124634,5561,115.6875,0.3024609,0,0,1,0,0
+Lazy loading and multi-modal data,0,0,0,1,1,2.306898593902588,5561,115.6875,0.2822429,0,1,0,0,0
+How to log cur_val_loss to tensorboard in validation_step?,0,0,0,1,1,2.2378721237182617,5561,115.6875,0.2008493,0,0,1,0,0
+How to get test predictions (and other non-scalar metrics)?,0,0,0,1,0,2.370727062225342,5561,115.6875,0.3312664,0,0,1,0,0
+CI: Force docs compilation warnings to be raised as errors,0,1,0,0,0,2.3398377895355225,5561,115.6875,0.2827745,1,0,0,0,1
+How to save checkpoints within lightning_logs?,0,0,0,1,1,2.2528038024902344,5561,115.6875,0.2244774,0,0,1,0,1
+Adapting SWA for pytorch lightning.,0,0,0,1,0,2.3083064556121826,5549,115.6875,0.2758879,0,1,0,0,0
+Passing the early_stop_callback to the Trainer,0,0,0,1,0,2.306669235229492,5549,115.6875,0.2567781,0,0,1,0,0
+Outdated documentation for loggers,0,1,0,0,0,2.236581325531006,5549,115.6875,0.1953797,0,0,0,0,1
+CUDA - numpy related copy error?,0,0,0,1,0,2.3554351329803467,5549,115.6875,0.3198164,1,0,0,0,0
+Correctly document ReduceLROnPlateau,0,1,0,0,0,2.3137881755828857,5549,115.6875,0.2671336,0,0,0,0,1
+How to save to extra info checkpoint?,0,0,0,1,0,2.2446236610412598,5549,115.69140625,0.1968079,0,0,1,0,0
+ImageNet example shows contradictions,0,1,0,0,1,2.3490779399871826,5549,115.6953125,0.297625,1,0,0,0,0
+Hide default pl flags with -h?,0,0,0,1,1,2.309770107269287,5549,115.6953125,0.2749845,0,0,1,0,0
+How to skip one of multiple optimizers at training_step()?,0,0,0,1,0,2.2370035648345947,5549,115.6953125,0.1992388,0,0,1,0,0
+Pruning gradients before Optimizer_step,0,0,0,1,1,2.3731534481048584,5549,115.6953125,0.3239788,1,0,0,0,0
+How to resolve DeprecationWarning ,0,0,0,1,0,2.3208985328674316,5549,115.6953125,0.2851327,0,0,1,0,0
+"Trouble logging validation and training metrics on the same row in ""metrics.csv""",0,0,0,1,1,2.188936710357666,5549,115.6953125,0.1555317,1,0,0,0,0
+How to disable progress bar and printing model structure?,0,0,0,1,0,2.2539052963256836,5549,115.6953125,0.2444527,0,0,1,0,1
+Run full validation epoch before training,0,0,0,1,0,2.238754987716675,5549,115.6953125,0.1881768,1,0,0,0,0
+Document auto_select_gpus,0,1,0,0,1,2.370256185531616,5549,115.6953125,0.3554697,0,0,0,0,1
+OpenPAI and PyTorch Lightning for easy multi-machine distributed training?,0,0,0,1,1,2.3065686225891113,5549,115.6953125,0.2460716,0,1,1,0,0
+Model checkpointing for sub-epoch frequency,0,0,0,1,1,2.3028266429901123,5549,115.6953125,0.2577801,0,1,0,0,0
+Backward on tensors inside training_step,0,0,0,1,0,2.3098533153533936,5549,115.6953125,0.2497263,1,0,0,0,0
+How can I integrate shuffling BN (in MoCo) with PTL?,0,0,0,1,1,2.226418972015381,5549,115.6953125,0.1967185,0,0,1,0,0
+Use only one of the optimizers as warm-up ,0,0,0,1,1,2.362112045288086,5549,115.6953125,0.3358283,0,0,1,0,0
+How to disable model summary?,0,0,0,1,0,2.330596446990967,5549,115.6953125,0.2852226,0,0,1,0,0
+More Details about Distributed Data Parallel Random Seed,0,0,0,1,1,2.2302114963531494,5549,115.6953125,0.1953681,0,0,0,0,1
+"return ""val_loss"" in validation step and ""avg_val�_loss"" from validation_epoch_end in trainer ",0,0,0,1,1,2.372891664505005,5549,115.6953125,0.3264085,1,0,0,0,0
+Trainer docs,0,1,0,0,0,2.315582275390625,5549,115.6953125,0.2937613,0,0,0,0,1
+Collect all  losses into a list?,0,0,0,1,0,2.219721555709839,5549,115.6953125,0.1941578,0,0,1,0,0
+codecov doesn't respect ignore,1,0,0,0,0,2.347722053527832,5549,115.67578125,0.3326322,1,0,0,0,0
+Incorrect Implementation for Accumulating Batch Gradients in Trainer,1,0,0,0,0,2.337588310241699,5549,115.67578125,0.3084093,1,0,0,0,0
+What should I do if I don't have validation data and test data?,1,0,0,0,0,2.2586488723754883,5549,115.67578125,0.2070262,0,0,1,0,0
+Errata in the readme?,1,0,0,0,0,2.3567872047424316,5549,115.67578125,0.3190166,0,0,0,0,1
+AttributeError: 'xxx' object has no attribute 'tng_dataloader' continued...,1,0,0,0,0,2.311046838760376,5549,115.67578125,0.287544,1,0,0,0,0
+Recursive device conversion of tuple,1,0,0,0,0,2.2275633811950684,5549,115.67578125,0.1969788,1,0,0,0,0
+'tng_loss' vs 'loss' in in training_step,0,0,0,1,0,2.379931688308716,5549,115.67578125,0.3311814,1,0,0,0,0
+Non plain-tensor batches,1,0,0,0,0,2.325200080871582,5549,115.67578125,0.2746502,1,0,0,0,0
+Install within conda env breaks,1,0,0,0,0,2.230825901031494,5549,115.67578125,0.1951583,1,0,0,0,0
+How to save model name with my own variable?,0,0,0,1,0,2.352006196975708,5549,115.67578125,0.3384624,0,0,1,0,0
+"When running single_gpu_node_dp_template.pj, missing 'dp' or 'ddp' param",1,0,0,0,0,2.3267908096313477,5549,115.67578125,0.3129207,1,0,0,0,0
+Question about multiple optimizers and lr schedulers?,0,0,0,1,0,2.244459629058838,5549,115.67578125,0.1955155,0,0,1,0,0
+Trainer track_grad_norm always results in 0,1,0,0,0,0,2.380434989929199,5549,115.6796875,0.3395465,1,0,0,0,0
+Missing metrics on Tensorboard,1,0,0,0,0,2.3188693523406982,5549,115.6796875,0.2853667,1,0,0,0,0
+Broken link in Examples readme,1,0,0,0,0,2.2323713302612305,5549,115.6796875,0.1945892,1,0,0,0,0
+Logger fails at scale,1,0,0,0,0,2.376478433609009,5549,115.6796875,0.3277886,1,0,0,0,0
+Disable automatic checkpoint loading,0,0,1,0,0,2.3043408393859863,5549,115.6796875,0.2792428,0,1,0,0,0
+Optimizer step hook missing param,1,0,0,0,0,2.2412970066070557,5549,115.6796875,0.1952914,1,0,0,0,0
+training_step is called once for each optimizer,1,0,0,0,0,2.372324228286743,5549,115.6796875,0.3260901,1,0,0,0,0
+Multiple optimizers but only one loss,0,0,0,1,0,2.3135080337524414,5549,115.6796875,0.2683589,1,0,0,0,0
+dp training : bug  if the number of examples is not a multiple of the batchsize and not a multiple of gpu count,1,0,0,0,0,2.241933822631836,5549,115.68359375,0.2101047,1,0,0,0,0
+Increment `global_step` at end of iter?,1,0,0,0,0,2.3513758182525635,5549,115.68359375,0.3069875,0,0,1,0,0
+"Having a low ""val_check_interval"" value with many workers in Dataloader leads to extrem overhead",1,0,0,0,1,2.315493583679199,5549,115.68359375,0.277812,1,0,0,0,0
+Problems loading model from metrics,1,0,0,0,0,2.2301394939422607,5549,115.68359375,0.1934312,1,0,0,0,0
+Training/Validation split in minimal example,0,0,0,1,0,2.370605707168579,5549,115.68359375,0.3298514,0,1,0,0,0
+Fix readme for Pypi,1,0,0,0,0,2.351738929748535,5549,115.68359375,0.3050592,1,0,0,0,1
+CometLogger does not implement name() and version() class methods,1,0,0,0,0,2.222228765487671,5549,115.68359375,0.1915599,1,0,0,0,0
+K-fold cross-validation,0,0,0,1,0,2.3457295894622803,5549,115.68359375,0.3133369,0,1,0,0,0
+RuntimeError: bool value of Tensor with more than one value is ambiguous,1,0,0,0,0,2.321398973464966,5549,115.68359375,0.2763588,1,0,0,0,0
+Model checkpoint is not working,1,0,0,0,0,2.236125946044922,5549,115.68359375,0.195556,1,0,0,0,0
+versions after .5.2.1 do not print weights summary,1,0,0,0,0,2.3739736080169678,5549,115.68359375,0.3294626,1,0,0,0,0
+Training with DDP could fail at startup due to FileExistsError,1,0,0,0,0,2.322598695755005,5549,115.68359375,0.2724013,1,0,0,0,0
+training_forward assumes input has .copy() method for single GPU,1,0,0,0,0,2.2234952449798584,5549,115.68359375,0.1987492,1,0,0,0,0
+GPU usage decreasing with epochs,1,0,0,0,0,2.3648858070373535,5549,115.6875,0.3336999,1,0,0,0,0
+Inadequate total steps shown in progress bar during sanity validation check when number of validation dataloaders >= 2,1,0,0,0,0,2.3335587978363037,5549,115.6875,0.2769719,1,0,0,0,0
+failing Docs build,1,0,0,0,0,2.3130576610565186,5549,115.6953125,0.2943699,1,0,0,0,1
+GPU memory usage/leak varies between experiments/trials with Apex (use_amp=True) ,1,0,0,0,0,2.3007280826568604,5549,115.6953125,0.2669799,1,0,0,0,0
+enable Windows CI,0,0,1,0,0,2.319988965988159,5549,115.6953125,0.2896342,0,1,0,0,0
+Pickle error from Trainer.fit when using MLFlowLogger and distributed data parallel without SLURM,1,0,0,0,0,2.214690685272217,5549,115.6953125,0.1983309,1,0,0,0,0
+Call or Forward?,0,0,0,1,0,2.360057830810547,5549,115.6953125,0.3329802,0,0,1,0,0
+simple text classification example with ptl,0,0,0,1,0,2.331786870956421,5549,115.6953125,0.2867751,1,0,0,0,0
+"Pytorch lightning spawns processes after each epoch of training, causing training script to crash unexpectedly",1,0,0,0,0,2.238321304321289,5549,115.6953125,0.1982749,1,0,0,0,0
+`ModelCheckpoint` with `save_best_only=True` shouldn't delete previous directory,1,0,0,0,0,2.3563804626464844,5549,115.6953125,0.3305704,1,0,0,0,1
+on_train_end callback is not called if training is stopped early,1,0,0,0,0,2.30057692527771,5549,115.6953125,0.2458245,1,0,0,0,0
+Difference between results during training and testing,1,0,0,0,0,2.241048574447632,5549,115.6953125,0.1961137,0,0,1,0,0
+Where is EarlyStopping searching for metrics?,0,0,0,1,0,2.346611499786377,5549,115.6953125,0.3111195,0,0,1,0,0
+update paths/links according new org,1,0,0,0,0,2.308598041534424,5549,115.6953125,0.2708404,0,0,0,0,1
+Extract wight and model for external use,0,0,0,1,0,2.220393180847168,5549,115.6953125,0.197051,0,1,0,0,0
+Installing pytorch-lightning on Jetson Nano(ARM),0,0,0,1,0,2.3668248653411865,5549,115.6953125,0.3255215,1,0,0,0,0
+batch may not have the copy method,1,0,0,0,0,2.3062448501586914,5549,115.6953125,0.2722196,1,0,0,0,0
+TensorBoardLogger and ModelCheckpoint are not using the same folder by default,1,0,0,0,0,2.261697769165039,5549,115.6953125,0.2075438,1,0,0,0,0
+imagenet_example cannot run,1,0,0,0,0,2.307152032852173,5549,115.6953125,0.292821,1,0,0,0,0
+log_gpu_memory='all'` options raise Error,1,0,0,0,0,2.295642614364624,5549,115.6953125,0.2842849,1,0,0,0,0
+`overfit_pct` vs `train_percent_check` etc,0,1,1,0,0,2.2642643451690674,5549,115.6953125,0.2078809,0,1,0,0,0
+[Pyright] Cannot instantiate abstract class,1,0,0,0,1,2.3157222270965576,5549,115.6953125,0.2820104,1,0,0,0,0
