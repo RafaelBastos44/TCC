@@ -1,4 +1,5 @@
 venv/
+venv2/
 cronograma/
 text_classification/data/**/*.csv
 text_classification/data/**/*.parquet
