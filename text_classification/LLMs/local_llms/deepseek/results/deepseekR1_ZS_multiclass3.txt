@@ -1,0 +1,9 @@
+Accuracy: 0.3415
+F1 score: 0.3787877488540397
+Precision: 0.5529380050736443
+Recall: 0.3415
+Average response time: 5.379193484306335
+Average VRAM usage: 2333.929
+Average RAM usage: 77.5478359375
+Average total time: 3.33566496775
+Lines classified: 2000
